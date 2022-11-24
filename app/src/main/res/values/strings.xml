@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MushTool</string>
+    <string name="bienvenue_dans_l_application_mushtool">Bienvenue dans l\'application MushTool</string>
+    <string name="longitude">Longitude</string>
+    <string name="degre">degré</string>
+    <string name="minute">minute</string>
+    <string name="seconde">seconde</string>
+    <string name="latitude">Latitude</string>
+    <string name="Mush_text">Allons cueillir des champignons</string>
+    <string name="Boat_text">Bateau</string>
+    <string name="Polar_text">Polaire</string>
+
+    <string-array name="boats">
+        <item>imoca_60_foil</item>
+    </string-array>
+</resources>

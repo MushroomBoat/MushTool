@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PolarChartVr">
+        <attr name="nb_sections" format="integer" />
+        <attr name="nb_circles" format="integer" />
+    </declare-styleable>
+</resources>
